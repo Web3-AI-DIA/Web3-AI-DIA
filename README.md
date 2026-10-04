@@ -43,7 +43,6 @@ Explore my full portfolio:
 
 ## 🎓 Education
 
-- **B.S. Cybersecurity & Information Assurance (WGU)**  
 - Self‑taught blockchain engineer  
 - Continuous training via TryHackMe, Google Cloud, Digital Garage
 
@@ -52,7 +51,6 @@ Explore my full portfolio:
 ## 🚀 Current Projects
 
 - Midnight Architect — AI‑powered dApp builder  
-- Mobile smart contract auditing environment (Termux + Ubuntu Proot)  
 - Autonomous agent security tooling
 
 ---
@@ -60,5 +58,5 @@ Explore my full portfolio:
 ## 📫 Contact
 
 - GitHub: **Web3-AI-DIA**  
-- Email: (add your preferred email)  
+- Email: dmeredith4242@gmail.com
 - Open to collaborations, audits, and security engineering roles.
