@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Derrick Meredith
 
-**Blockchain Security Auditor • Smart Contract Engineer • Cybersecurity Student (WGU)**  
+**Blockchain Security Auditor • Smart Contract Engineer**  
 Based in Kentucky, USA
 
 I specialize in **smart contract auditing**, **DeFi protocol analysis**, and **secure dApp engineering**.  
